@@ -30,3 +30,4 @@ def main():
             print("Guitar {0}: {1.name:<23} ({1.year:<4}), worth ${1.cost:10,.2f}").format(i, guitar,vintage_string)
         else:
             print("No guitars :( Quick, go and buy one!")
+
